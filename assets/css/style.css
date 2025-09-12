@@ -16,6 +16,9 @@ body{
 header{
     background-color: lightcoral;
 }
+h1{
+    font-family: "oswald", sans-serif;
+}
 main{
     background-color: lightblue;
     flex: 1 0 auto;
@@ -26,7 +29,7 @@ footer{
 .oswald-bold {
   font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 600;
+  font-weight: 700;
   font-style: normal;
 }
 .lato-thin {
